@@ -1,3 +1,5 @@
-body {
-  background-color: black;
-}
+@use "core/resets";
+@use "core/global";
+@use "core/variables";
+@use "components/card";
+@use "components/button";
